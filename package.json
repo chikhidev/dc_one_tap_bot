@@ -1,0 +1,19 @@
+{
+  "name": "dc_one_tap_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chikhidev/dc_one_tap_bot.git"
+  },
+  "author": "chikhidev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chikhidev/dc_one_tap_bot/issues"
+  },
+  "homepage": "https://github.com/chikhidev/dc_one_tap_bot#readme"
+}
