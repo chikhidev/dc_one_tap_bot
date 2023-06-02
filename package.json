@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "npx nodemon"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/chikhidev/dc_one_tap_bot/issues"
   },
-  "homepage": "https://github.com/chikhidev/dc_one_tap_bot#readme"
+  "homepage": "https://github.com/chikhidev/dc_one_tap_bot#readme",
+  "dependencies": {
+    "discord.js": "^13.16.0",
+    "dotenv": "^16.1.3",
+    "nodemon": "^2.0.22"
+  }
 }
